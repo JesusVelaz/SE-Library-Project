@@ -1,5 +1,5 @@
 # SE-Library-Project
-This is a project done in Software Engineering I.
+This is a project done in Software Engineering I using agile principles.
 
 The purpose of this project was to complete 4 user stories presented.
 
