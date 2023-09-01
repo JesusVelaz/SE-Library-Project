@@ -7,5 +7,5 @@ In this project, the 4 user stories completed was: adding/creating user profiles
 
 The project was made in JAVA using Intellij IDE, a database created on MYSQL, Spring BOOT as REST API, and POSTMAN to do the requests.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/udEP4DCkul8/0.jpg)]
-(http://www.youtube.com/watch?v=udEP4DCkul8 "Library Stories")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/udEP4DCkul8/0.jpg)](http://www.youtube.com/watch?v=udEP4DCkul8 "Library Stories")
+
